@@ -2,7 +2,7 @@
 in console unzip and
 
 
-chmod +x chmod.sh
+chmod +x chmod.sh;
 ./chmod.sh
 
 
